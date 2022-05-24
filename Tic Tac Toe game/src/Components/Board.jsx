@@ -3,7 +3,6 @@ import { useEffect, useState } from 'react';
 import Squares from './Squares';
 import {v4 as uuid} from "uuid";
 
-
 export const Board = () => {
     let initialState = ["","","","","","","","","",];
 
