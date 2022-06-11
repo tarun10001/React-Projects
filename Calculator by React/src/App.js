@@ -51,7 +51,6 @@ function App() {
     return setCalc("") + setResult("");
   }
 
-
   return (
     <div className="App">
       <h1>React Calculator</h1>
