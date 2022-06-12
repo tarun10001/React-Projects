@@ -27,7 +27,6 @@ return index !== id;
       })
     })
 }
-
   return (
     <div className="main_div">
       <div className="center_div">
