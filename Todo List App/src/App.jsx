@@ -17,7 +17,6 @@ const App = () => {
     });
     setInputList("");
   };
-
   const deleteItems = (id) => {
     console.log('deleted');
 
